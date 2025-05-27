@@ -1,6 +1,6 @@
 # Python Weather App
 
-## Overview
+### Overview
 A simple Python app that displays real-time weather data for Indian cities using the OpenWeatherMap API.
 
 ## Requirements
